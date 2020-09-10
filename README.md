@@ -83,12 +83,35 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <br><br>
+  <br>
 
 ![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=radical&theme=radical)
 
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=React_Portfolio&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/jaeungkim/React_Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=React_Portfolio&theme=dark" />
+</a>
+
+<a href="https://github.com/jaeungkim/Resume-with-JSON">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Resume-with-JSON" />
+</a>
+
+<a href="https://github.com/jaeungkim/CaffeineHolic_website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=CaffeineHolic_website" />
+</a>
+
+<a href="https://github.com/jaeungkim/Lental_website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Lental_website" />
+</a>
+
+<a href="https://github.com/jaeungkim/COSC419">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=COSC419" />
+</a>
+
+<a href="https://github.com/jaeungkim/COSC315">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=COSC315" />
+</a>
+
 
 ---
 
