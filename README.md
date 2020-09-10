@@ -1,4 +1,5 @@
 # :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] :kr: 👋
+![GitHub followers](https://img.shields.io/github/followers/jaeungkim?label=Follow%20Me&logo=GitHub&style=for-the-badge)
 ## 💻 I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
