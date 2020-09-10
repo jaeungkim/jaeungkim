@@ -1,7 +1,7 @@
-# <img src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="300">
 
 # :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] 
 
+# <img style="position: absolute" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="300">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
