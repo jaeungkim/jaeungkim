@@ -1,6 +1,8 @@
 
 # :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] 
-<img aligh = "right" style="position: absolute" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="300">
+
+<img aligh = "right" style="position: absolute" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="230">
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
