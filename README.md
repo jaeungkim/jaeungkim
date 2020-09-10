@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Designer, and Blogger!
 
-- 🔭 I’m currently working on my portfolio site [website]!
+- 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a full time web developing position
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -79,10 +79,11 @@
 
 <!-- </details> -->
 
+--- 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jae Kim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&hide_border=true" />
 
 </details>
 
