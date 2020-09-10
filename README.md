@@ -1,5 +1,5 @@
 
-<img align = "right" style="position: absolute; border-radius: 20px; height: auto; width: 100%" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="230">
+<img align = "right" style="position: absolute; height: auto" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200">
 
 # :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] 
 
