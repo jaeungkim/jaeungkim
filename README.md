@@ -1,4 +1,4 @@
-# :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] <img src = "https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="30">
+# :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] <img src = "https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="100">
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
-## <img src = "https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="30"> Connect with me
+## <img src = "https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="50"> Connect with me
 [<img align="left" alt="jaeungkim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
