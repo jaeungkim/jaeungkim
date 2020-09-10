@@ -80,12 +80,17 @@
 <!-- </details> -->
 
 --- 
-<details>
+
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Jae Kim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jae Kim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&hide_border=true&theme=dark" />
 
-</details>
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=React_Portfolio&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://jaeungkim.com
 [instagram]: https://instagram.com/jaekiim
