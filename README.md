@@ -1,4 +1,4 @@
-# <img src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="1000">
+# <img src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="300">
 
 # :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] 
 
@@ -19,7 +19,7 @@
 <br />
 
 
-## <img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> Languages and Tools
+## <img src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="30"> Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
