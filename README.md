@@ -1,5 +1,6 @@
 # :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] :kr: 👋
 
+
 ## 💻 I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
@@ -12,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-![GitHub followers](https://img.shields.io/github/followers/jaeungkim?label=Follow%20My%20GitHub&logo=GitHub&style=for-the-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id==jaeungkim)
 <br />
 
 
