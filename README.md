@@ -1,4 +1,4 @@
-# :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] :kr: 👋
+# :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] <img src = "https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="30">
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
-## 📮 Connect with me
+## <img src = "https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="30"> Connect with me
 [<img align="left" alt="jaeungkim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,7 +17,7 @@
 <br />
 
 
-## 🚀 Languages and Tools
+## <img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
