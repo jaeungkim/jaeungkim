@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
-<img align = "right" style="position: absolute; border-radius: 20px; height: auto; width: 100%; max-width: 230" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+<img align = "right" style="position: absolute; border-radius: 20px; height: auto; width: 100%; max-width: 230px" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 
 ## <img src = "https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" width="20"> Connect with me
 [<img align="left" alt="jaeungkim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
