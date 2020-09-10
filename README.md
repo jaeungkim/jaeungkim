@@ -1,4 +1,4 @@
-# :kr: :Hi there, I'm Jae Kim - aka [Jay][website] :kr: 👋
+# :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] :kr: 👋
 ## 💻 I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
@@ -33,7 +33,9 @@
 ## :zap: Github Stats
 <!-- Github stat pie chart image -->
 <img align = "center" alt = "Jae's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=dark" />
+
 ---
+
 <br />
 <!-- Github Repo Cards -->
 <a href="https://github.com/jaeungkim/React_Portfolio">
@@ -54,7 +56,9 @@
 <a href="https://github.com/jaeungkim/COSC315">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=COSC315&theme=dark" />
 </a>
+
 ---
+
 <br />
 <!-- Github Top Languages card -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim&theme=dark" />
