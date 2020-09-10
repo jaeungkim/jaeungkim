@@ -1,13 +1,12 @@
-### :kr: :Hi there, I'm Jae Kim - aka [Jay][website] :kr: 👋
-## I'm a Developer 💻 , Designer :shipit:, and Blogger 📷!
+# :kr: :Hi there, I'm Jae Kim - aka [Jay][website] :kr: 👋
+## 💻 I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a full time web developing position
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
-
-### 📮 Connect with me
+## 📮 Connect with me
 [<img align="left" alt="jaeungkim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,7 +14,7 @@
 <br />
 
 
-### 🚀 Languages and Tools
+## 🚀 Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -31,7 +30,7 @@
 <br />
 
 
-### :zap: Github Stats
+## :zap: Github Stats
 <!-- Github stat pie chart image -->
 <img align = "center" alt = "Jae's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=dark" />
 ---
