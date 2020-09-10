@@ -83,7 +83,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <br>
+  <br><br>
 
 <!-- Github stat pie chart image -->
 <img align = "left" alt = "Jae's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=radical&theme=dark" />
