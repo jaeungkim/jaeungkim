@@ -93,23 +93,23 @@
 </a>
 
 <a href="https://github.com/jaeungkim/Resume-with-JSON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Resume-with-JSON" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=Resume-with-JSON&theme=dark" />
 </a>
 
 <a href="https://github.com/jaeungkim/CaffeineHolic_website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=CaffeineHolic_website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic_website&theme=dark" />
 </a>
 
 <a href="https://github.com/jaeungkim/Lental_website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Lental_website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=Lental_website&theme=dark" />
 </a>
 
 <a href="https://github.com/jaeungkim/COSC419">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=COSC419" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
 </a>
 
 <a href="https://github.com/jaeungkim/COSC315">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=COSC315" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=COSC315&theme=dark" />
 </a>
 
 
