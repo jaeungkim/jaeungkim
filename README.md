@@ -1,9 +1,9 @@
 
 <img align = "right" style="position: absolute; height: auto" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200">
 
-# Hi there <img src = "https://tenor.com/view/waving-wave-hand-emoji-gif-10897308" width="10">, I'm Jae Ung Kim - aka [Jay][website] 
+# Hi there <img src = "https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif" width="10">, I'm Jae Ung Kim - aka [Jay][website] 
 
-## <img src="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308" width="30"> I'm a Developer, Designer, and Blogger!
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a full time web developing position
