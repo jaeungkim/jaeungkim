@@ -3,7 +3,7 @@
 
 # Hi there <img src = "https://tenor.com/view/waving-wave-hand-emoji-gif-10897308" width="10">, I'm Jae Ung Kim - aka [Jay][website] 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
+## <img src="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308" width="30"> I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a full time web developing position
