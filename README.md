@@ -1,6 +1,8 @@
 
 # :kr: Hi there, I'm Jae Ung Kim - aka [Jay][website] 
 
+<img align = "right" style="position: absolute; border-radius: 20px; height: auto; width: 100%" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="230">
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m currently learning everything 🤣
@@ -8,7 +10,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
-<img align = "right" style="position: absolute; border-radius: 20px; height: auto; width: 100%" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="230">
+
 
 ## <img src = "https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" width="20"> Connect with me
 [<img align="left" alt="jaeungkim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
