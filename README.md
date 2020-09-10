@@ -85,9 +85,12 @@
 
   <br>
 
-![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=radical&theme=radical)
+<!-- Github stat pie chart image -->
+<img align = "left" alt = "Jae's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=radical&theme=dark" />
 
 ---
+
+<!-- Github Repo Cards -->
 <a href="https://github.com/jaeungkim/React_Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=React_Portfolio&theme=dark" />
 </a>
@@ -114,8 +117,8 @@
 
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github Top Languages card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://jaeungkim.com
 [instagram]: https://instagram.com/jaekiim
