@@ -83,7 +83,9 @@
 
   <summary>:zap: Github Stats</summary>
 
-![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=radical&theme=dark)
+  <br><br>
+
+![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=radical&theme=radical)
 
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=React_Portfolio&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
