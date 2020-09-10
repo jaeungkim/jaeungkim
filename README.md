@@ -32,36 +32,36 @@
 
 ## :zap: Github Stats
 <!-- Github stat pie chart image -->
-<img align = "center" alt = "Jae's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=dark" />
+<img align = "center" alt = "Jae's Github Stats" src = "https://github-readme-stats.jaeungkim.vercel.app/api?username=jaeungkim&show_icons=true&theme=dark" />
 
 ---
 
 <br />
 <!-- Github Repo Cards -->
 <a href="https://github.com/jaeungkim/React_Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=React_Portfolio&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=React_Portfolio&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Resume-with-JSON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=Resume-with-JSON&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Resume-with-JSON&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/CaffeineHolic_website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic_website&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic_website&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Lental_website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=Lental_website&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Lental_website&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/COSC419">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/COSC315">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeungkim&repo=COSC315&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC315&theme=dark" />
 </a>
 
 ---
 
 <br />
 <!-- Github Top Languages card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/top-langs/?username=jaeungkim&theme=dark" />
 
 
 [website]: https://jaeungkim.com
