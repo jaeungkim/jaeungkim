@@ -81,10 +81,8 @@
 
 <br>
   <summary>:zap: Github Stats</summary>
-
----
-
 <!-- Github stat pie chart image -->
+
 <img align = "center" alt = "Jae's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jaeungkim&show_icons=true&theme=dark" />
 
 ---
@@ -117,7 +115,8 @@
 <br>
 ---
 <!-- Github Top Languages card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim&theme=dark" />
+
 
 [website]: https://jaeungkim.com
 [instagram]: https://instagram.com/jaekiim
