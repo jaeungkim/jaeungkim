@@ -45,22 +45,22 @@
 <br />
 <!-- Github Repo Cards -->
 <a href="https://github.com/jaeungkim/React_Portfolio">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Portfolio&theme=light" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Portfolio&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Resume-with-JSON">
   <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Resume&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/CaffeineHolic_website">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic&theme=light" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Lental_website">
   <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Lental&theme=dark" />
 </a>
+<a href="https://github.com/jaeungkim/COSC315">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=ChatBot&theme=dark" />
+</a>
 <a href="https://github.com/jaeungkim/COSC419">
   <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
-</a>
-<a href="https://github.com/jaeungkim/COSC315">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC315&theme=dark" />
 </a>
 
 ---
