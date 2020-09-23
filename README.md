@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Lental_website">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Lental&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Lental&theme=light" />
 </a>
 <a href="https://github.com/jaeungkim/COSC419">
   <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
