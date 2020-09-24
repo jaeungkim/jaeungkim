@@ -44,23 +44,23 @@
 
 <br />
 <!-- Github Repo Cards -->
-<a href="https://github.com/jaeungkim/Por2tfolio">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Portfolio&theme=dark" />
+<a href="https://github.com/jaeungkim/Port3folio">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Portf2olio&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/R2esume">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Resume&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Res2ume&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Caff2eineHolic">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Caff2eineHolic&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Lent2al">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Lental&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Len2tal&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/Chat2Bot">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=ChatBot&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Cha2tBot&theme=dark" />
 </a>
 <a href="https://github.com/jaeungkim/COSC2419">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC4319&theme=dark" />
 </a>
 
 ---
