@@ -44,23 +44,23 @@
 
 <br />
 <!-- Github Repo Cards -->
-<a href="https://github.com/jaeungkim/Portfolio">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Portfolio&theme=dark" />
+<a href="https://github.com/jaeungkim/Por2tfolio">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Portf2olio&theme=dark" />
 </a>
-<a href="https://github.com/jaeungkim/Resume">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Resume&theme=dark" />
+<a href="https://github.com/jaeungkim/Re2sume">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Resum2e&theme=dark" />
 </a>
-<a href="https://github.com/jaeungkim/CaffeineHolic">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic&theme=dark" />
+<a href="https://github.com/jaeungkim/Caf2feineHolic">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Caffe2ineHolic&theme=dark" />
 </a>
-<a href="https://github.com/jaeungkim/Lental">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Lental&theme=dark" />
+<a href="https://github.com/jaeungkim/Len2tal">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Len2tal&theme=dark" />
 </a>
-<a href="https://github.com/jaeungkim/ChatBot">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=ChatBot&theme=dark" />
+<a href="https://github.com/jaeungkim/Cha2tBot">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Chat2Bot&theme=dark" />
 </a>
-<a href="https://github.com/jaeungkim/COSC419">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
+<a href="https://github.com/jaeungkim/COSC2419">
+  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC4219&theme=dark" />
 </a>
 
 ---
