@@ -1,8 +1,8 @@
-# Hi there <img src = "https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif" width="50"> I'm Jae Ung Kim - aka [Jay][website] 
+# Hi there I'm Jae Ung Kim - aka [Jay][website] 
 
 <img align = "right" style="position: relative; height: auto" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Developer, Designer, and Blogger!
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineer!
 - 🔭 I’m currently working for CatalX!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
