@@ -2,8 +2,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineer!
 - 🔭 I’m currently working for Catalyx. https://catalyx.io/home
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
 
