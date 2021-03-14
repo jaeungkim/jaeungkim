@@ -62,9 +62,6 @@
 ---
 
 <br />
-<!-- Github Top Languages card -->
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/top-langs/?username=jaeungkim&theme=dark" />
-
 [website]: https://jaeungkim.com
 [instagram]: https://instagram.com/jaekiim
 [linkedin]: https://linkedin.com/in/jaeungkim0526/
