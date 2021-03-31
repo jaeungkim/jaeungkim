@@ -31,36 +31,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-
-## :zap: Github Stats
-<!-- Github stat pie chart image -->
-<img align = "center" alt = "Jae's Github Stats" src = "https://github-readme-stats.jaeungkim.vercel.app/api?username=jaeungkim&show_icons=true&theme=dark" />
-
----
-
-<br />
-<!-- Github Repo Cards -->
-<a href="https://github.com/jaeungkim/Portfolio">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Portfolio&theme=dark" />
-</a>
-<a href="https://github.com/jaeungkim/Resume">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Resume&theme=dark" />
-</a>
-<a href="https://github.com/jaeungkim/CaffeineHolic">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=CaffeineHolic&theme=dark" />
-</a>
-<a href="https://github.com/jaeungkim/Lental">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=Lental&theme=dark" />
-</a>
-<a href="https://github.com/jaeungkim/ChatBot">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=ChatBot&theme=dark" />
-</a>
-<a href="https://github.com/jaeungkim/COSC419">
-  <img align="center" src="https://github-readme-stats.jaeungkim.vercel.app/api/pin/?username=jaeungkim&repo=COSC419&theme=dark" />
-</a>
-
----
-
 <br />
 
 [website]: https://jaeungkim.com
