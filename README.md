@@ -1,4 +1,4 @@
-# Hi there! I'm Jae Ung Kim - aka [Jay][website] 
+# Hi there! I'm [Jae Kim][website]
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineer!
 - 🔭 I’m currently working for Catalyx. https://catalyx.io/home
