@@ -7,16 +7,6 @@
 - :link: Portfolio: https://www.jaeungkim.com/
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
-<br />
-## <img src = "https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" width="20"> Connect with me
-[<img align="left" alt="jaeungkim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- ![visitors](https://visitor-badge.glitch.me/badge?page_id==jaeungkim)
-<br />
-
-
 ## <img src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="17"> Languages and Tools
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
