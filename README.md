@@ -4,7 +4,6 @@
 - 🔭 I’m currently working for Catalyx. https://catalyx.io/home
 - ⚡ Graduated from UBC - BSc. in Computer Science
 - :link: Linkedin: https://www.linkedin.com/in/jaeungkim0526/
-- :link: Portfolio: https://www.jaeungkim.com/
 - ⚡ Fun fact: I love playing basketball 🏀 and video games :video_game:
 
 ## <img src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="17"> Languages and Tools
