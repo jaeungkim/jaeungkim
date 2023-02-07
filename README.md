@@ -2,8 +2,6 @@
 [![][linkedin]]([https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-0991aa207](https://www.linkedin.com/in/jaeungkim0526/))
 [![][mail]](mailto:jaewoongkim95@gmail.com)
 [![][blog]]([https://medium.com/@jaeungkim](https://medium.com/@jaeungkim))
-[![][stats]](https://www.jaeungkim.ca)
-
 <!---------------------------
 ---------------------------->
 
