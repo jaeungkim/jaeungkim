@@ -1,13 +1,13 @@
 [![][website]](https://www.jaeungkim.ca)
 [![][linkedin]]([https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-0991aa207](https://www.linkedin.com/in/jaeungkim0526/))
 [![][mail]](mailto:jaewoongkim95@gmail.com)
-[![][blog]]([https://velog.io/@bang9dev](https://medium.com/@jaeungkim))
+[![][blog]]([https://medium.com/@jaeungkim](https://medium.com/@jaeungkim))
 
-*I'm an __Engineer__ who loves everything creative.*
+<!-- *I'm an __Engineer__ who loves everything creative.* -->
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" alt="my github stats" width="441" />]([https://bang9.github.io](https://www.jaeungkim.ca)])
+[<img src="https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" alt="my github stats" width="441" />]([https://www.jaeungkim.ca](https://www.jaeungkim.ca)])
 
-[<img src="https://github-contributor-stats.vercel.app/api?username=bang9&hide=B,B%2B&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" width="441" />]([https://bang9.github.io](https://www.jaeungkim.ca)])
+[<img src="https://github-contributor-stats.vercel.app/api?username=bang9&hide=B,B%2B&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" width="441" />]([https://www.jaeungkim.ca](https://www.jaeungkim.ca)])
 
 [![][stats]](https://www.jaeungkim.ca)
 
