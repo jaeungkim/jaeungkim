@@ -1,7 +1,7 @@
 [![][website]](https://www.jaeungkim.ca)
 [![][linkedin]](https://www.linkedin.com/in/jaeungkim0526/)
 [![][mail]](mailto:jaewoongkim95@gmail.com)
-[![][blog]](https://medium.com/@jaeungkim)
+[![][blog]](https://jaeungkim.vercel.app/blog)
 
 ![](https://komarev.com/ghpvc/?username=jaeungkim&color=dc143c)
 
