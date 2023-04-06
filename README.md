@@ -22,7 +22,10 @@ Here's a list of technologies and tools I have experience with:
 
 ## 📈 GitHub Stats
 
-[![Jaeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeungkim)](https://github.com/jaeungkim/github-readme-stats)
+[![Jaeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeungkim&theme=tokyonight)](https://github.com/jaeungkim/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim&layout=compact&theme=tokyonight)](https://github.com/jaeungkim/github-readme-stats)
+
 
 ## 📮 Get in Touch
 
