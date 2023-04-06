@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a highly motivated and collaborative Full-Stac
 * 💼 I have 2+ years of professional experience in full-stack web development.
 * 🎯 My main areas of expertise are frontend and backend development, 3D web technologies, and cloud computing.
 * 📚 I'm fluent in English and Korean.
-* 🏅 I'm a member of Mensa International.
 
 ## 🛠️ Technologies & Tools
 
