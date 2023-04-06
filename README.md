@@ -20,12 +20,12 @@ Here's a list of technologies and tools I have experience with:
 * Testing: Jest, Unit Testing
 * Other: CI/CD, JIRA, Git, GitHub, Bitbucket, GitLab, Agile
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 [![Jaeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeungkim&theme=tokyonight)](https://github.com/jaeungkim/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungkim&layout=compact&theme=tokyonight)](https://github.com/jaeungkim/github-readme-stats)
-
+ -->
 
 ## 📮 Get in Touch
 
