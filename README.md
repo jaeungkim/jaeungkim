@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Jaeung Kim (Jay)! 😄
+## 👋 Hi there, I'm Jaeung Kim (Jae)! 😄
 
 Welcome to my GitHub profile! I'm a highly motivated and collaborative Full-Stack Web Developer with over 2 years of experience in designing, building, and maintaining software. I have a strong passion for emerging technologies and a drive to innovate. I'm always ready to take on a new challenge and improve my skills. Let's dive in and explore my repositories! 🚀
 
