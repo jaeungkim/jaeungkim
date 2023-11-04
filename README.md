@@ -1,12 +1,12 @@
 ## 👋 Hi there, I'm Jaeung Kim (Jae)! 😄
 
-Welcome to my GitHub profile! I'm a highly motivated and collaborative Full-Stack Web Developer with over 2 years of experience in designing, building, and maintaining software. I have a strong passion for emerging technologies and a drive to innovate. I'm always ready to take on a new challenge and improve my skills. Let's dive in and explore my repositories! 🚀
+Welcome to my GitHub profile! I'm a highly motivated and collaborative Full-Stack Web Developer with over 3 years of experience in designing, building, and maintaining software. I have a strong passion for emerging technologies and a drive to innovate. I'm always ready to take on a new challenge and improve my skills. Let's dive in and explore my repositories! 🚀
 
 ## 🌟 About Me
 
 * 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia.
 * 📌 I'm currently based in Vancouver, BC.
-* 💼 I have 2+ years of professional experience in full-stack web development.
+* 💼 I have 3+ years of professional experience in full-stack web development.
 * 🎯 My main areas of expertise are frontend and backend development, 3D web technologies, and cloud computing.
 * 📚 I'm fluent in English and Korean.
 
