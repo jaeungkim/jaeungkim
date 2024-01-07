@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Jaeung Kim (Jae)! 😄
+## 👋 Hi there, I'm Jay Kim! 😄
 
 * 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia.
 * 📌 I'm currently working in Seoul, Korea.
