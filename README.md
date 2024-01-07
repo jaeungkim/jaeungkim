@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Jaeung Kim (Jae)! 😄
 
 * 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia.
-* 📌 I'm currently based in Seoul, Korea.
-* 💼 I have 2+ years of professional experience in full-stack web development.
+* 📌 I'm currently working in Seoul, Korea.
+* 💼 I have 3+ years of professional experience in full-stack web development.
 * 📚 I'm fluent in English and Korean.
 
 ## 🛠️ Technologies & Tools
