@@ -1,8 +1,8 @@
-## 👋 Hi there, I'm Jay Kim! 😄
+## 👋 Hi there, I'm Jaeung Kim! 😄
 
 * 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia.
-* 📌 I'm currently working in Seoul, Korea.
-* 💼 I have 3+ years of professional experience in full-stack web development.
+* 📌 I'm currently working in Seoul, South Korea.
+* 💼 I have 4+ years of professional experience in web development.
 * 📚 I'm fluent in English and Korean.
 
 ## 🛠️ Technologies & Tools
@@ -10,9 +10,9 @@
 Here's a list of technologies and tools I have experience with:
 
 * Frontend: React, Next.js, Angular, Redux, React Query, Recoil, Tailwind, WebGL, Three.js, GSAP
-* Backend: Node.js, Express.js, Nest.js, Java, PostgreSQL, MongoDB
+* Backend: Node.js, Express.js, Nest.js, PostgreSQL, MongoDB
 * Testing: Jest
-* Other: AWS, Docker, Jenkins, JIRA, Notion, Git, GitHub, Bitbucket, GitLab, Agile
+* Other: AWS, Docker, Kubernetes, Kafka, Jenkins, JIRA, Notion, Git, GitHub, Bitbucket, GitLab, Agile
 
 ## 📮 Get in Touch
 
