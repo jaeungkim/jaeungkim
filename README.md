@@ -9,7 +9,7 @@
 
 Here's a list of technologies and tools I have experience with:
 
-* Frontend: React, Next, Angular, Redux, Tanstack Query, Recoil, Tailwind, WebGL, Three.js, GSAP
+* Frontend: React, Next, Angular, Redux, Tanstack Query, Recoil, Zustand, Tailwind, WebGL, Three.js, GSAP
 * Backend: Node.js, Express.js, Nest.js, PostgreSQL, MongoDB
 * Testing: Jest
 * Other: AWS, Docker, Kubernetes, Kafka, Jenkins, JIRA, Notion, Git, GitHub, Bitbucket, GitLab, Agile
