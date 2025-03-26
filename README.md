@@ -21,7 +21,6 @@ Feel free to reach out to me for any collaboration opportunities, questions, or 
 [![][website]](https://www.jaeungkim.com)
 [![][linkedin]](https://www.linkedin.com/in/jaeungkim0526/)
 [![][mail]](mailto:jaewoongkim95@gmail.com)
-[![][blog]](https://jaeungkim.com/blog)
 
 ![](https://komarev.com/ghpvc/?username=jaeungkim&color=dc143c)
 
