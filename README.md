@@ -33,3 +33,5 @@ Feel free to reach out to me for any collaboration opportunities, questions, or 
 [linkedin]: https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logoColor=white&logo=LinkedIn
 [blog]: https://img.shields.io/badge/Blog-20c997?style=flat&logoColor=white&logo=GitBook
 [mail]: https://img.shields.io/badge/Mail-ea4335?style=flat&logoColor=white&logo=Gmail
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeungkim&theme=dark&show_icons=true)
